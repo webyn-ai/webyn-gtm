@@ -1,5 +1,5 @@
 homepage: "https://www.webyn.ai"
 documentation: "https://www.webyn.ai/google-tag-manager-integration"
 versions:
-  - sha: aedd0103cc697e1afcadeda9ec2883a3b9855257
+  - sha: 94f86cca9f141472e8ce371d1a9e631296ae4a54
     changeNotes: Initial release.
